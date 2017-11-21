@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.SEFDStuff.PencilsDown" android:versionCode="7" android:installLocation="auto" android:versionName="1.0.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/officiallogo" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="PencilsDown" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md555819eea1b24efcb4c8f84f9b2c189f9.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.SEFDStuff.PencilsDown.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.SEFDStuff.PencilsDown" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

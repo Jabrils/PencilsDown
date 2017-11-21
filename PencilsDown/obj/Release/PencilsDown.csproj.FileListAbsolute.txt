@@ -1,0 +1,80 @@
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\PencilsDown.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown-Signed.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\PencilsDown.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\PencilsDown.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\PencilsDown.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\PencilsDown.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\android\bin\com.SEFDStuff.PencilsDown.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\layout\main.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\values\strings.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\pencil.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\skull.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\youtube.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\relax.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\working.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\wrap.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\late.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\target.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\res\drawable\officiallogo.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\R.cs.flag
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\uploadflags.txt
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll.mdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\PencilsDown\PencilsDown\obj\Release\android\assets\PencilsDown.dll.mdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\PencilsDown.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown-Signed.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\PencilsDown.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\PencilsDown.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\PencilsDown.dll
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\PencilsDown.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\android\bin\com.SEFDStuff.PencilsDown.apk
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\layout\demo.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\layout\main.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\values\strings.xml
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\pencil.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\skull.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\youtube.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\relax.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\working.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\wrap.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\late.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\target.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\res\drawable\officiallogo.png
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\R.cs.flag
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\uploadflags.txt
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll.mdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FIN\PencilsDown\PencilsDown\obj\Release\android\assets\PencilsDown.dll.mdb
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\PencilsDown.pdb
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown.apk
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\com.SEFDStuff.PencilsDown-Signed.apk
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.dll
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\Newtonsoft.Json.xml
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\PencilsDown.csprojResolveAssemblyReference.cache
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\PencilsDown.csproj.CoreCompileInputs.cache
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\PencilsDown.dll
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\PencilsDown.pdb
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\android\bin\com.SEFDStuff.PencilsDown.apk
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\layout\demo.xml
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\layout\main.xml
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\values\strings.xml
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\pencil.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\skull.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\youtube.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\relax.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\working.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\wrap.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\late.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\target.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\res\drawable\officiallogo.png
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\R.cs.flag
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\uploadflags.txt
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\bin\Release\PencilsDown.dll.mdb
+C:\Users\brilj\Documents\4Git\PencilsDown\PencilsDown\obj\Release\android\assets\PencilsDown.dll.mdb
