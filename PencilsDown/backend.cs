@@ -54,7 +54,7 @@ namespace jsontools
         /// <returns></returns>
         public static int DateSubtraction(DateTime pastDate)
         {
-            int ret = DateTime.Today.Subtract(pastDate).Days+1;
+            int ret = DateTime.Today.Subtract(pastDate).Days;
 
             return ret;
         }
