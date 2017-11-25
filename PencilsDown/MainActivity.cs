@@ -4,16 +4,22 @@ using Android.OS;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System;
+using System.IO;
 using System.Threading;
 using jsontools;
 using Android.Graphics;
 using Android.Views;
+using SQLite.Net;
 
 namespace PencilsDown
 {
     [Activity(Label = "PencilsDown", MainLauncher = true, Theme = "@android:style/Theme.Black.NoTitleBar.Fullscreen")]
     public class MainActivity : Activity
     {
+        string dataPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments);
+        string dataFile;
+        string save = "savedata.txt";
+
         public int daysCycle = 7;
         public string channelID = "UCQALLeQPoZdZC4JNUboVEUg";
 
@@ -23,8 +29,7 @@ namespace PencilsDown
         Random r = new Random();
 
         // INSERT YOUR PERSONAL API KEY HERE FOR THIS TO WORK AT ALL! If you don't know how to do this, please visit https://developers.google.com/youtube/v3/getting-started & actually read it lol
-        string apiKey = "";
-
+	string apiKey = "";
         string json;
 
         Color[] bg = new Color[]{
@@ -56,6 +61,18 @@ namespace PencilsDown
         {
             base.OnCreate(savedInstanceState);
 
+            dataFile = System.IO.Path.Combine(dataPath, save);
+
+            // 
+            if (!File.Exists(dataFile))
+            {
+                SaveData(dataFile);
+
+                // For Debugging purposes
+                // AlertDialog.Builder a = new AlertDialog.Builder(this);
+                // a.SetMessage("CREATED!").Show();
+            }
+
             // this demo mode is simply for the video
             WhichScreen(false);
         }
@@ -68,6 +85,11 @@ namespace PencilsDown
         {
             if (!demo)
             {
+                // 
+                    string loadedSave = ReadSaveData(dataFile);
+                channelID = loadedSave.Split(',')[0];
+                daysCycle = int.Parse(loadedSave.Split(',')[1]);
+
                 // Set our view from the "main" layout resource
                 SetContentView(Resource.Layout.Main);
 
@@ -103,10 +125,24 @@ namespace PencilsDown
                 string api = Backend.GetFullURL(channelID, apiKey);
 
                 // 
+                //json = Backend.DownloadData(api);
                 json = Backend.DownloadData(api);
-
-                tV.Text = json;
             }
+        }
+
+        string ReadSaveData(string dataFile)
+        {
+            StreamReader sR = new StreamReader(dataFile);
+            string ss = sR.ReadToEnd();
+            sR.Close();
+            return ss;
+        }
+
+        void SaveData(string dataFile)
+        {
+            StreamWriter sW = new StreamWriter(dataFile);
+            sW.Write(channelID + "," + daysCycle);
+            sW.Close();
         }
 
         /// <summary>
@@ -144,12 +180,14 @@ namespace PencilsDown
                 {
                     channelID = eT1.Text;
                     LoadData();
+                    SaveData(dataFile);
                 }
 
                 if (eT2.Text != ""+daysCycle)
                 {
                     daysCycle = int.Parse(eT2.Text);
                     UpdateUI();
+                    SaveData(dataFile);
                 }
             }
         }
